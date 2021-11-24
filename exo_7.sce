@@ -1,4 +1,4 @@
-//1. Ecrivons une matrice A de taille 3 3 avec la fonction rand()
+//1. Ecrivons une matrice A de taille 3*3 avec la fonction rand()
 A=rand(3,3);
 
 //2. Ecrivons un vecteur xex dans R³ avec rand()
